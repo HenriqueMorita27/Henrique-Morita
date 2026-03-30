@@ -16,24 +16,6 @@ Ele foi criado para aprender e aplicar conceitos de desenvolvimento, como:
 * Boas práticas
 * Desenvolvimento de funcionalidades reais
 
-
----
-
-## ⚙️ Instalação
-
-Para rodar o projeto na sua máquina:
-
-```bash
-# Clone o repositório
-git clone https://github.com/seu-usuario/seu-projeto.git
-
-# Acesse a pasta
-cd seu-projeto
-
-# Instale as dependências
-npm install
-```
-
 ---
 
 ## ▶️ Como usar
@@ -91,8 +73,8 @@ Este projeto está sob a licença MIT.
 ## 👨‍💻 Autor
 
 **Henrique Morita**
-📧 [coloque seu email aqui]
-🌐 [seu GitHub ou LinkedIn]
+📧 [henrique.morita2711@gmail.com]
+🌐 [HenriqueMorita27]
 
 ---
 # Henrique-Morita
